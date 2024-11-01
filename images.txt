@@ -7,7 +7,6 @@
 
 mysql:8.0
 mysql:latest
-zabbix/zabbix-java-gateway
 
 zabbix/zabbix-java-gateway:ubuntu-7.0-latest
 zabbix/zabbix-server-mysql:ubuntu-7.0-latest
