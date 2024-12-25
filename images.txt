@@ -1,7 +1,8 @@
 #nginx
 #支持私库
+# k8s
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-registry.k8s.io/pause:3.9
+#registry.k8s.io/pause:3.9
 #registry.k8s.io/node-test:0.2
 #registry.k8s.io/kube-apiserver:v1.31.4
 #registry.k8s.io/kube-controller-manager:v1.31.4
@@ -10,6 +11,11 @@ registry.k8s.io/pause:3.9
 #registry.k8s.io/coredns/coredns:v1.11.1
 #registry.k8s.io/pause:3.10
 #registry.k8s.io/etcd:3.5.15-0
+
+# calico
+docker.io/calico/cni:master
+docker.io/calico/node:master
+docker.io/calico/kube-controllers:master
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
