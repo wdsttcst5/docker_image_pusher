@@ -22,7 +22,7 @@ docker.io/calico/kube-controllers:master
 #redis
 #memcached
 #httpd
-bar
+busybox
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
