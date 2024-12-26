@@ -18,8 +18,10 @@ docker.io/calico/node:master
 docker.io/calico/kube-controllers:master
 
 # CKA classroom
-ping
-pong
+nginx
+redis
+memcached
+httpd
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
