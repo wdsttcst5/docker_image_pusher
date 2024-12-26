@@ -13,16 +13,19 @@
 #registry.k8s.io/etcd:3.5.15-0
 
 # calico
-docker.io/calico/cni:master
-docker.io/calico/node:master
-docker.io/calico/kube-controllers:master
+#docker.io/calico/cni:master
+#docker.io/calico/node:master
+#docker.io/calico/kube-controllers:master
+
+# k8s nfs support
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 # CKA classroom
 #nginx
 #redis
 #memcached
 #httpd
-busybox
+#busybox
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
