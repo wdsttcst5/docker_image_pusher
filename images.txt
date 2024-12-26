@@ -17,6 +17,10 @@ docker.io/calico/cni:master
 docker.io/calico/node:master
 docker.io/calico/kube-controllers:master
 
+# CKA classroom
+ping
+pong
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
