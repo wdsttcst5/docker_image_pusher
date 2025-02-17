@@ -1,5 +1,11 @@
 # ollama
-ollama/ollama
+# ollama/ollama
+
+# open-webui
+ghcr.io/open-webui/open-webui:main
+
+# ktransformers
+approachingai/ktransformers:0.2.1
 
 #nginx
 #支持私库
