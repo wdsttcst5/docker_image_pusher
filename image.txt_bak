@@ -1,0 +1,57 @@
+# ollama
+# ollama/ollama
+
+# open-webui
+ghcr.io/open-webui/open-webui:main
+
+# ktransformers
+approachingai/ktransformers:0.2.1
+
+#nginx
+#支持私库
+# k8s
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#registry.k8s.io/pause:3.9
+#registry.k8s.io/node-test:0.2
+#registry.k8s.io/kube-apiserver:v1.31.4
+#registry.k8s.io/kube-controller-manager:v1.31.4
+#registry.k8s.io/kube-scheduler:v1.31.4
+#registry.k8s.io/kube-proxy:v1.31.4
+#registry.k8s.io/coredns/coredns:v1.11.1
+#registry.k8s.io/pause:3.10
+#registry.k8s.io/etcd:3.5.15-0
+#registry.k8s.io/kube-apiserver:v1.31.1
+#registry.k8s.io/kube-controller-manager:v1.31.1
+#registry.k8s.io/kube-scheduler:v1.31.1
+#registry.k8s.io/kube-proxy:v1.31.1
+
+# calico
+#docker.io/calico/cni:master
+#docker.io/calico/node:master
+#docker.io/calico/kube-controllers:master
+
+# k8s nfs support
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+
+# CKA classroom
+#nginx
+#redis
+#memcached
+#httpd
+#busybox
+
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+
+#mysql:8.0
+#mysql:latest
+
+#zabbix/zabbix-java-gateway:ubuntu-7.0-latest
+#zabbix/zabbix-server-mysql:ubuntu-7.0-latest
+#zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
+
+#ubuntu:22.04
+#ubuntu:18.04
+
+# prometheus
+#prom/prometheus
