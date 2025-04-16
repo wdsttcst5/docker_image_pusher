@@ -2,10 +2,10 @@
 # ollama/ollama
 
 # open-webui
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 
 # ktransformers
-approachingai/ktransformers:0.2.1
+#approachingai/ktransformers:0.2.1
 
 #nginx
 #支持私库
@@ -24,6 +24,15 @@ approachingai/ktransformers:0.2.1
 #registry.k8s.io/kube-controller-manager:v1.31.1
 #registry.k8s.io/kube-scheduler:v1.31.1
 #registry.k8s.io/kube-proxy:v1.31.1
+
+# oesp1-k8s
+registry.k8s.io/kube-apiserver:v1.29.15
+registry.k8s.io/kube-controller-manager:v1.29.15
+registry.k8s.io/kube-scheduler:v1.29.15
+registry.k8s.io/kube-proxy:v1.29.15
+registry.k8s.io/coredns/coredns:v1.11.1
+registry.k8s.io/pause:3.9
+registry.k8s.io/etcd:3.5.10-0
 
 # calico
 #docker.io/calico/cni:master
@@ -54,4 +63,4 @@ approachingai/ktransformers:0.2.1
 #ubuntu:18.04
 
 # prometheus
-prom/prometheus
+#prom/prometheus
