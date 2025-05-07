@@ -64,3 +64,6 @@ registry.k8s.io/etcd:3.5.10-0
 
 # prometheus
 #prom/prometheus
+
+# sge
+robsyme/docker-sge
