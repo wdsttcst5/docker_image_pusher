@@ -55,9 +55,9 @@ registry.k8s.io/etcd:3.5.10-0
 #mysql:8.0
 #mysql:latest
 
-#zabbix/zabbix-java-gateway:ubuntu-7.0-latest
-#zabbix/zabbix-server-mysql:ubuntu-7.0-latest
-#zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
+zabbix/zabbix-java-gateway:ubuntu-7.0-latest
+zabbix/zabbix-server-mysql:ubuntu-7.0-latest
+zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
 
 #ubuntu:22.04
 #ubuntu:18.04
