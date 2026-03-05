@@ -55,9 +55,9 @@ registry.k8s.io/etcd:3.5.10-0
 #mysql:8.0
 #mysql:latest
 
-zabbix/zabbix-java-gateway:ubuntu-7.0-latest
-zabbix/zabbix-server-mysql:ubuntu-7.0-latest
-zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
+#abbix/zabbix-java-gateway:ubuntu-7.0-latest
+#zabbix/zabbix-server-mysql:ubuntu-7.0-latest
+#zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
 
 #ubuntu:22.04
 #ubuntu:18.04
@@ -66,4 +66,25 @@ zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
 #prom/prometheus
 
 # sge
-robsyme/docker-sge
+#robsyme/docker-sge
+
+# redis
+redis:7.4.8
+
+# nginx
+
+
+# kafka
+
+
+# zookeeper
+
+
+# elasticsearch
+
+
+# logstash
+
+
+# rocketmq
+
