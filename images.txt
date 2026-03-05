@@ -78,7 +78,7 @@ nginx:1.29.5
 apache/kafka:3.9.2
 
 # zookeeper
-apache/zookeeper:3.9.4
+#apache/zookeeper:3.9.4
 
 # elasticsearch
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.19.12
