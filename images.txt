@@ -75,7 +75,7 @@ redis:7.4.8
 nginx:1.29.5
 
 # kafka
-apache/kafka:3.6.1
+apache/kafka:3.9.2
 
 # zookeeper
 apache/zookeeper:3.9.4
@@ -88,11 +88,3 @@ docker.elastic.co/logstash/logstash:9.3.1
 
 # rocketmq
 apache/rocketmq
-
-
-
-# logstash
-
-
-# rocketmq
-
